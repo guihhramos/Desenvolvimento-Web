@@ -32,13 +32,13 @@ RESPOSTA PERGUNTA 1: 1- Button: declara um botão no seu navegador;
 
 RESPOSTA PERGUNTA 2: você usa o HTML para declarar suas tags para personalizar o estilo do seu navegador, no css, em base de códigos, você tem muitas utilidades, como animar, declarar a coloração, seja os botões, titulos, etc.
 
-RESPOSTA PERGUNTA 3: <.link rel="stylesheet" href="../css/...">
+RESPOSTA PERGUNTA 3:``` <link rel="stylesheet" href="../css/...">```
 
 RESPOSTA PERGUNTA 4: font-family: 'NOME-DA-FONTE';
 
 RESPOSTA PERGUNTA 5: d) body
 
-RESPOSTA PERGUNTA 6: <.img src="../img/link-arquivo.da.imagem" alt="">
+RESPOSTA PERGUNTA 6: ```<img src="../img/link-arquivo.da.imagem" alt="">```
 
 RESPOSTA PERGUNTA 7: class seria como uma declaração tag global(para todos os elementos), id seria uma tag direcionada para um unico elemento. 
 
