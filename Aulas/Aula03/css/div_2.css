@@ -43,6 +43,7 @@ button {
     border-radius: 10%;
     background: radial-gradient(red, pink);
     transition: .05 ease-in-out
+    calc(#ff0000)
     
 }
 
