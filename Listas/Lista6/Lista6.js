@@ -8,7 +8,7 @@ var pix = {
         documento: '361.743.717-35'
     },
     recebedor: {
-        nome: 'Fulano',
+        nome: 'Ciclano',
         documento: '135.268.144-53'
     },
     transacoes: [
