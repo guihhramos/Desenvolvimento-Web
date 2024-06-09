@@ -1,0 +1,16 @@
+
+#conteudo-principal {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.conteudo-produto {
+    width: 200px;
+    height: 250px;
+    max-width: 200px;
+    max-width: 250px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
