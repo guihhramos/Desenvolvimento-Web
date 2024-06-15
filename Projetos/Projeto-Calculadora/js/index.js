@@ -37,7 +37,7 @@ let criarBotao = (id, classe, valor) =>{
 criarBotao('btn-ponto', 'btn btn-calcule', '.')
 criarBotao('btn-soma', 'btn btn-calcule', '+')
 criarBotao('btn-sub', 'btn btn-calcule', '-')
-criarBotao('btn-mult', 'btn btn-calcule', 'x')
+criarBotao('btn-mult', 'btn btn-calcule', '*')
 criarBotao('btn-div', 'btn btn-calcule', '/')
 criarBotao('btn-result', 'btn btn-calcule', '=')
 
