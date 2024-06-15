@@ -1,0 +1,12 @@
+.conteudo-formulario button {
+    cursor: pointer;
+    color: rgb(255, 0, 0);
+    background: linear-gradient(#f3398e, #6b87d5) ;
+    transition: .3s;
+}
+
+.conteudo-formulario button:hover {
+    width: 305px;
+    height: 45px;
+    background: linear-gradient( #6b87d5, #f3398e) ;
+}
